@@ -60,11 +60,11 @@ const Connect = () => {
               />
             </div>
             <div className="flex flex-col md:flex-row gap-4 font-vcr text-2xl md:text-4xl font-black tracking-tighter">
-              <CustomLink href="tel:+917305537375" className="hover:text-tertiary transition-colors">+91 7305537375</CustomLink>
+              <CustomLink href="tel:+917024239983" className="hover:text-tertiary transition-colors">+91 7024239983</CustomLink>
               <span className="hidden md:inline text-white/20">|</span>
-              <CustomLink href="tel:+919343399132" className="hover:text-tertiary transition-colors">+91 9343399132</CustomLink>
+              <CustomLink href="tel:+919310370142" className="hover:text-tertiary transition-colors">+91 9310370142</CustomLink>
               <span className="hidden md:inline text-white/20">|</span>
-              <CustomLink href="tel:+919592042162" className="hover:text-tertiary transition-colors">+91 9592042162</CustomLink>
+              <CustomLink href="tel:+919041856973" className="hover:text-tertiary transition-colors">+91 9041856973</CustomLink>
 
             </div>
 
